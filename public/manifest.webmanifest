@@ -1,0 +1,17 @@
+{
+  "name": "Aprenda Brincando",
+  "short_name": "Aprenda",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#7ED6FF",
+  "theme_color": "#FF8A1E",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
